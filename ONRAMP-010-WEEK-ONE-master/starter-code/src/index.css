@@ -1,0 +1,131 @@
+.parent_cont{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+   
+}
+.midd_branch{
+margin: auto;
+}
+
+.second_parent_cont{
+ display: flex;
+ justify-content: center;
+ height: 60%;
+ margin-top: 30px;
+}
+.image-middle{
+   width: 190px;
+   padding: 10px;
+   border-radius: 15px;
+}
+
+
+
+.mid_cont{
+ justify-content: center;
+ text-align: center;
+ margin-top: 80px;
+
+}
+
+h1{
+   font-family: 'Red Hat Display', sans-serif;
+}
+
+.download_button{
+   background-color: rgb(77, 150, 168);
+   padding: 8px;
+   border: 0px;
+   border-radius: 20px;
+   color: white;
+   font-family: 'Red Hat Display', sans-serif;
+   margin: 5px;
+   
+}
+.download_button:hover{
+   background-color: rgb(142, 227, 249);
+   font-family: 'Red Hat Display', sans-serif;
+}
+.download_version_text{
+   color: rgb(142, 227, 249);
+}
+.download_version_text:hover{
+   color: rgb(133, 95, 177);
+}
+
+.qa_button{
+   background-color: rgb(133, 95, 177);
+   color: white;
+   padding: 8px;
+   border: 0px;
+   border-radius: 20px;
+}
+
+.qa_button:hover{
+ background-color: rgb(217, 184, 255);
+}
+.image-toplogo{
+   width: 25%;
+   height: 5%;  
+}
+
+.top_mid_text{
+   color: rgb(135,135,157);
+   font-weight: 100;
+   font-family: 'Red Hat Display', sans-serif;
+}
+.bottom_heading5{
+   color: rgb(77, 150, 168);
+   font-family: 'Red Hat Display', sans-serif;
+   letter-spacing: 4px;
+   font-size: 16px;
+   
+}
+.bottom_text6{
+   color: rgb(135,135,157);
+   font-weight: 100;
+   font-family: 'Red Hat Display', sans-serif;
+}
+
+
+.image-topleft{
+ width: 250px;
+}
+.image-topright{
+  width: 250px;
+}
+
+
+
+.footer_cont{
+   background-image: url(/starter-code/utils/assets/images/image-footer.jpg);
+   height: auto;
+}
+
+.footer_content{
+height: auto;
+background-color: rgb(77, 150, 168);
+opacity: 80%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.footer_button_span{
+   color: rgb(188, 171, 207)
+}   
+
+.footer_left_text{
+   color: white;
+   font-family: 'Red Hat Display', sans-serif;
+}
+.footer_middle_text{
+   color: white;
+   font-weight: 100;
+   font-family: 'Red Hat Display', sans-serif;
+}
+
+
